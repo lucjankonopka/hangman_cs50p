@@ -1,7 +1,7 @@
 # Welcome to Hangman Game!
 
 ### Video Demo: 
-    <URL HERE>
+    https://youtu.be/uqX9fYWBjXI
 ### Creator: 
     Lucjan Konopka
 ### Game Description:
